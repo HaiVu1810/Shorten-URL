@@ -4,12 +4,12 @@ A simple and efficient URL shortening service built with **FastAPI** and **Mongo
 
 ## Features
 
-- ✨ **URL Shortening**: Convert long URLs to short, random 6-character codes
-- 📊 **Access Tracking**: Monitor how many times each shortened URL is accessed
-- 🔍 **URL Management**: Create, retrieve, update, and delete shortened URLs
-- ⚡ **Fast Performance**: Built on FastAPI for high-speed async operations
-- 💾 **MongoDB Integration**: Persistent storage with cloud-based MongoDB
-- 🛡️ **Duplicate Detection**: Prevents duplicate entries for the same original URL
+- **URL Shortening**: Convert long URLs to short, random 6-character codes
+- **Access Tracking**: Monitor how many times each shortened URL is accessed
+- **URL Management**: Create, retrieve, update, and delete shortened URLs
+- **Fast Performance**: Built on FastAPI for high-speed async operations
+- **MongoDB Integration**: Persistent storage with cloud-based MongoDB
+- **Duplicate Detection**: Prevents duplicate entries for the same original URL
 
 ## Tech Stack
 
@@ -196,3 +196,4 @@ For questions or issues, please create an issue in the repository.
 ---
 
 **Happy URL Shortening!** 🚀
+Project Inspired: https://roadmap.sh/projects/url-shortening-service
